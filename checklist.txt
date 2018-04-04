@@ -1,31 +1,24 @@
 Lista kontrolna do testów akceptacyjnych:
 
 - aplikacja testowa dostępna - TAK / NIE
-
 - testerzy akceptacyjni z przypisanymi zadaniami dostępni - TAK / NIE
-
 - loginy i hasła do systemu dostępne - TAK / NIE
-
 - scenariusze testów akceptacyjnych dostępne - TAK / NIE
-
 - środowisko testowe dostępne - TAK / NIE
-
 - plan testów akceptacyjnych dostępny - TAK / NIE
-
 - system raportowania defektów dostępny - TAK / NIE
-
 
 Lista kontrolna w zarządzaniu testami:
 Kolejność występowania działań może być różna w zależności od typu produktu i ram projektowych:
 
-    zdefiniowanie strategii testów
-    zdefiniowanie zakresu testów
-    zdefiniowanie i wdrożenie działań testowych
-    wdrożenie / określenie procesu testowego
-    identyfikacja i analiza ryzyk
-    określenie i wdrożenie metryk i pomiarów dla produktu i dla projektu
-    estymowanie testów
-    zarządzanie testowaniem i testerami
-    planowanie działań dla danej wersji oprogramowania
-    realizacja strategii testowej
-    raportowanie w odniesieniu do metryk testowych.
+  - zdefiniowanie strategii testów
+  - zdefiniowanie zakresu testów
+  - zdefiniowanie i wdrożenie działań testowych
+  - wdrożenie / określenie procesu testowego
+  - identyfikacja i analiza ryzyk
+  - określenie i wdrożenie metryk i pomiarów dla produktu i dla projektu
+  - estymowanie testów
+  - zarządzanie testowaniem i testerami
+  - planowanie działań dla danej wersji oprogramowania
+  - realizacja strategii testowej
+  - raportowanie w odniesieniu do metryk testowych.
